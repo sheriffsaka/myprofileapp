@@ -137,7 +137,7 @@ class ProfileUI2 extends StatelessWidget {
             height: 15,
           ),
           Text(
-            "App Developer || Full Stack Developer",
+            "App Developer || FullStack Developer",
             style: TextStyle(
                 fontSize: 18.0,
                 color: Colors.black45,
